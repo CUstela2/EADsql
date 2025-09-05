@@ -1,1 +1,1 @@
-Oi sor, ficou salvo como .txt mas foi feito no SQL PLAYGROUND no meu celular mas no ios nao tem como por a extensao ".sql" salvou como .txt
+Oi sor, ficou salvo como .txt mas foi feito no SQL PLAYGROUND no meu celular mas no ios nao tem como por a extensao ".sql" salvou como .txt, outra observação no SQL PLAYGROUND nao tem chave estrangeira
